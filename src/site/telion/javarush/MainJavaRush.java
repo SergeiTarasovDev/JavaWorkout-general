@@ -3,7 +3,7 @@ package site.telion.javarush;
 import java.util.Arrays;
 import java.util.List;
 
-public class Main {
+public class MainJavaRush {
     public void run() {
         System.out.println("Lambda JavaRush:\r\n");
         example1();
