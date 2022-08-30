@@ -1,4 +1,4 @@
-package site.telion.innopolis;
+package site.telion.lambda.innopolis;
 
 public abstract class Example1_TextField {
     protected String text = "";

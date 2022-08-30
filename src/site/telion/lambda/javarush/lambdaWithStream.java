@@ -1,4 +1,4 @@
-package site.telion.javarush;
+package site.telion.lambda.javarush;
 
 import java.util.Arrays;
 import java.util.List;

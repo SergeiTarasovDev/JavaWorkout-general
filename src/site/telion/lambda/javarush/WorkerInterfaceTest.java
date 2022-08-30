@@ -1,4 +1,4 @@
-package site.telion.javarush;
+package site.telion.lambda.javarush;
 
 public class WorkerInterfaceTest {
     public static void execute(WorkerInterface worker) {

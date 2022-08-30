@@ -1,9 +1,15 @@
-package site.telion.javarush;
+package site.telion.lambda.javarush;
 
 import java.util.Arrays;
 import java.util.List;
 
 public class MainJavaRush {
+
+    public static void main(String[] args) {
+        MainJavaRush mainJavaRush = new MainJavaRush();
+        mainJavaRush.run();
+    }
+
     public void run() {
         System.out.println("Lambda JavaRush:\r\n");
         example1();

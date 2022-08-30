@@ -1,4 +1,4 @@
-package site.telion.innopolis;
+package site.telion.lambda.innopolis;
 
 public class Example4_TextField {
     private String text = "";

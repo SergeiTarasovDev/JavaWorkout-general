@@ -1,4 +1,4 @@
-package site.telion.innopolis;
+package site.telion.lambda.innopolis;
 
 import java.util.Arrays;
 

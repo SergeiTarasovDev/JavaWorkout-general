@@ -1,4 +1,4 @@
-package site.telion.innopolis;
+package site.telion.lambda.innopolis;
 
 public class Example5_Sequence {
     public static int[] map(int array[], Example5_Mapper mapper) {
