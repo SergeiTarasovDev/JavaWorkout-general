@@ -8,8 +8,8 @@ public class Child extends Parent {
     }
 
     public void printFields() {
-        this.privateField = 2;
-        this.defaultField = 2;
+//        this.privateField = 2;
+//        this.defaultField = 2;
         this.protectedField = 2;
         this.publicField = 2;
     }

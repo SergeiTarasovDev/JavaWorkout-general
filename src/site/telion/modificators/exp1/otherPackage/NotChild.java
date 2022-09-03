@@ -6,9 +6,9 @@ public class NotChild {
 
     public void printText() {
         Parent parent = new Parent(1, 1, 1, 1);
-        parent.privateField = 2;
-        parent.defaultField = 2;
-        parent.protectedField = 2;
+//        parent.privateField = 2;
+//        parent.defaultField = 2;
+//        parent.protectedField = 2;
         parent.publicField = 2;
     }
 }
