@@ -8,6 +8,16 @@ public class MainJavaRush {
     public static void main(String[] args) {
         MainJavaRush mainJavaRush = new MainJavaRush();
         mainJavaRush.run();
+
+        String name = "Вася";
+        changeString(name);
+        System.out.println("name = " + name);
+        System.out.println(mainJavaRush);
+
+    }
+
+    private static void changeString(String name) {
+        name = "Коля";
     }
 
     public void run() {
