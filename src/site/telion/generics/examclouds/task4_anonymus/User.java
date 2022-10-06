@@ -21,9 +21,5 @@ public class User {
 
 }
 
-class Query {
-    public void printToLog() {
-        ;
-    }
-}
+
 
