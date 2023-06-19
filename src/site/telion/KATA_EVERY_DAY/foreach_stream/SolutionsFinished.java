@@ -1,4 +1,4 @@
-package site.telion.KATA_EVERY_DAY;
+package site.telion.KATA_EVERY_DAY.foreach_stream;
 
 import java.util.*;
 import java.util.stream.Collectors;

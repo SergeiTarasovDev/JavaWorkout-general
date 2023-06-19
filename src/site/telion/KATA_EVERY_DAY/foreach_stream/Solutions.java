@@ -1,4 +1,4 @@
-package site.telion.KATA_EVERY_DAY;
+package site.telion.KATA_EVERY_DAY.foreach_stream;
 
 public class Solutions {
     public static void main(String[] args) {
